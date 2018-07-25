@@ -28,8 +28,6 @@ class Homepage(BasePage):
         password = getpass.getpass()
         code = str(input('2FA:'))
 
-        print(email, code)
-
         email_field.send_keys(email)
         password_field.send_keys(password)
         code_field.send_keys(code)
