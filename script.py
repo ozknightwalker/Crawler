@@ -11,6 +11,7 @@ display = Display(visible=0, size=(1366, 768))
 display.start()
 
 browser = webdriver.Firefox()
+browser.implicitly_wait(10)
 browser.set_window_size(1280, 720)
 
 
@@ -19,10 +20,12 @@ fbtc.visit()
 
 fbtc.login()
 
+import time
+time.sleep(5)
 
 def collect():
-    fbtc.take_screenshot()
     fbtc.click_recaptcha()
+    fbtc.take_screenshot()
     Timer(3610, collect).start()
 
 
