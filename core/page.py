@@ -10,7 +10,6 @@ class BasePage(object):
     def __init__(self, driver):
         self.driver = driver
 
-
     def visit(self):
         self.driver.get(self.url)
 
@@ -18,4 +17,8 @@ class BasePage(object):
         self.driver.save_screenshot(
             '{}{}.png'.format(self.base_dir, slugify(self.driver.title)))
 
+    def login(self):
+        pass
 
+    def logout(self):
+        pass

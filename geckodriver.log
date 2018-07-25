@@ -1,0 +1,54 @@
+1532522103851	geckodriver	INFO	geckodriver 0.19.1
+1532522103856	geckodriver	INFO	Listening on 127.0.0.1:57609
+1532522105008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e9DD1UO4sSqs"
+1532522107825	Marionette	INFO	Listening on port 43243
+1532522107940	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27764, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532522248921	geckodriver	INFO	geckodriver 0.19.1
+1532522248930	geckodriver	INFO	Listening on 127.0.0.1:59911
+1532522250072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NSASix9fhApu"
+1532522252250	Marionette	INFO	Listening on port 40743
+1532522252301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532523954383	geckodriver	INFO	geckodriver 0.19.1
+1532523954391	geckodriver	INFO	Listening on 127.0.0.1:40647
+1532523955543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZdCaWZ63mw4r"
+1532523958630	Marionette	INFO	Listening on port 40099
+1532523958695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1532524043434	geckodriver	INFO	geckodriver 0.19.1
+1532524043452	geckodriver	INFO	Listening on 127.0.0.1:36459
+1532524044598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QnYFhNmlB7ie"
+1532524047409	Marionette	INFO	Listening on port 42327
+1532524047462	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:32570): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+
+(/usr/lib/firefox/firefox:32624): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+1532524087287	geckodriver	INFO	geckodriver 0.19.1
+1532524087291	geckodriver	INFO	Listening on 127.0.0.1:52147
+1532524088444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.napwF4UPBQXg"
+1532524090827	Marionette	INFO	Listening on port 40167
+1532524090865	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:383): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+
+(/usr/lib/firefox/firefox:450): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+1532524266869	geckodriver	INFO	geckodriver 0.19.1
+1532524266874	geckodriver	INFO	Listening on 127.0.0.1:52053
+1532524268032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WLJ8orUwdZmk"
+1532524270564	Marionette	INFO	Listening on port 34817
+1532524270676	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:923): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+
+(/usr/lib/firefox/firefox:985): Gdk-WARNING **: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1017.
+
+1532524396493	geckodriver	INFO	geckodriver 0.19.1
+1532524396498	geckodriver	INFO	Listening on 127.0.0.1:59959
+1532524397657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xqlpPP6lDLdd"
+1532524399874	Marionette	INFO	Listening on port 36641
+1532524399999	Marionette	WARN	TLS certificate errors will be ignored for this session
